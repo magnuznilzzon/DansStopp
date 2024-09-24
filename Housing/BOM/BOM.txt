@@ -1,0 +1,2 @@
+ESP32 Devkit01
+3 mm microswitch
